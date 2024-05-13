@@ -3,9 +3,9 @@
 <h2>IT Projects</h2>
 
 Active Directory:
-- Installing AD on windows server 2022 and building a domain controller
-- Connecting a client to a domain
-- Creating a new GPO
+- ### [Installing AD on windows server 2022 and building a domain controller](https://github.com/tmooney783/InstallActiveDirectory)
+- ### [Connecting a client to a domain]
+- ### [Creating a new GPO]
 
 Powershell:
 - Creating a new OU and adding a user
