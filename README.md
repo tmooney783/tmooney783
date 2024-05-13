@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tara!</h1>
 
-<h2>IT Homelabs</h2>
+<h2>IT Projects</h2>
 
 Active Directory:
 - Installing AD on windows server 2022 and building a domain controller
