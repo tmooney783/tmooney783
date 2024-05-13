@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Tara!</h1>
 
-<!--
-**tmooney783/tmooney783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>IT Homelabs</h2>
 
-Here are some ideas to get you started:
+Active Directory:
+- Installing AD on windows server 2022 and building a domain controller
+- Connecting a client to a domain
+- Creating a new GPO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Powershell:
+- Creating a new OU and adding a user
+- Script for something
+
+Virtual Machines:
+- Creating a Windows 10 machine on Oracle VirtualBox
+- Setting up an Ubuntu machine on Azure
+
+Networking:
+- Subnetting based on amount of hosts required
+- Subnetting based on amount of subnetworks required
+- Troubleshooting using subnetting
+- Variable length subnet masks
+- Setting up a firewall on a Debian vm using pfsense
