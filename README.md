@@ -2,22 +2,26 @@
 
 <h2>IT Projects</h2>
 
-Active Directory:
+<h3>Active Directory:</h3>
+
 - ### [Installing AD on windows server 2022 and building a domain controller](https://github.com/tmooney783/InstallActiveDirectory)
-- ### [Connecting a client to a domain]
+- ### [Connecting a client to a domain](https://github.com/tmooney783/ConnectingADclient/blob/main/README.md)
 - ### [Creating a new GPO]
 
-Powershell:
-- Creating a new OU and adding a user
-- Script for something
+<h3>Powershell:</h3>
+                 
+- ### [Creating a new OU and adding a user]
+- ### [Script for something]
 
-Virtual Machines:
-- Creating a Windows 10 machine on Oracle VirtualBox
-- Setting up an Ubuntu machine on Azure
+<h3>Virtual Machines:</h3>
 
-Networking:
-- Subnetting based on amount of hosts required
-- Subnetting based on amount of subnetworks required
-- Troubleshooting using subnetting
-- Variable length subnet masks
-- Setting up a firewall on a Debian vm using pfsense
+- ### [Creating a Windows 10 machine on Oracle VirtualBox]
+- ### [Setting up an Ubuntu machine on Azure]
+
+<h3>Networking:</h3>
+
+- ### [Subnetting based on amount of hosts required]
+- ### [Subnetting based on amount of subnetworks required]
+- ### [Troubleshooting using subnetting]
+- ### [Variable length subnet masks]
+- ### [Setting up a firewall on a Debian vm using pfsense]
