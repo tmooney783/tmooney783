@@ -4,9 +4,9 @@
 
 <h3>Active Directory:</h3>
 
-- ### [Installing AD on windows server 2022 and building a domain controller](https://github.com/tmooney783/InstallActiveDirectory)
+- ### [Installing AD on Windows Server 2022 and building a domain controller](https://github.com/tmooney783/InstallActiveDirectory)
 - ### [Connecting a client to a domain](https://github.com/tmooney783/ConnectingADclient/blob/main/README.md)
-- ### [Creating a new GPO]
+- ### [Managing power with Group Policy](https://github.com/tmooney783/AD-ManagingPowerWithGP/blob/main/README.md)
 
 <h3>Powershell:</h3>
                  
