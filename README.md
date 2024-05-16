@@ -11,7 +11,6 @@
 <h3>Powershell:</h3>
                  
 - ### [Creating a new OU and adding a user](https://github.com/tmooney783/PowershellNewOU/blob/main/README.md)
-- ### [Script for something]
 
 <h3>Virtual Machines:</h3>
 
