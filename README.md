@@ -15,7 +15,7 @@
 <h3>Virtual Machines:</h3>
 
 - ### [Creating a Windows 10 machine on Oracle VirtualBox](https://github.com/tmooney783/vmOracleVirtualBox/blob/main/README.md)
-- ### [Setting up an Ubuntu machine on Azure]
+- ### [Setting up an Ubuntu machine on Azure](https://github.com/tmooney783/UbuntuVMAzure/blob/main/README.md)
 
 <h3>Networking:</h3>
 
