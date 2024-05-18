@@ -20,7 +20,7 @@
 <h3>Networking:</h3>
 
 - ### [Subnetting based on amount of hosts required](https://github.com/tmooney783/SubnettingHosts/blob/main/README.md)
-- ### [Subnetting based on amount of hosts required]
+- ### [Subnetting based on amount of hosts required](https://github.com/tmooney783/Subnettingsubnets/blob/main/README.md)
 - ### [Subnetting based on amount of subnetworks required]
 - ### [Troubleshooting using subnetting]
 - ### [Variable length subnet masks]
