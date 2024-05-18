@@ -20,8 +20,7 @@
 <h3>Networking:</h3>
 
 - ### [Subnetting based on amount of hosts required](https://github.com/tmooney783/SubnettingHosts/blob/main/README.md)
-- ### [Subnetting based on amount of hosts required](https://github.com/tmooney783/Subnettingsubnets/blob/main/README.md)
-- ### [Subnetting based on amount of subnetworks required]
-- ### [Troubleshooting using subnetting]
+- ### [Subnetting based on amount of subnetworks required](https://github.com/tmooney783/Subnettingsubnets/blob/main/README.md)
+- ### [Troubleshooting using subnets](https://github.com/tmooney783/TroubleshootingWithSubnets/blob/main/README.md)
 - ### [Variable length subnet masks]
 - ### [Setting up a firewall on a Debian vm using pfsense]
