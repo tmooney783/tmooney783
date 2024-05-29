@@ -1,5 +1,3 @@
-<h1>Hi, I'm Tara!</h1>
-
 <h2>IT Projects</h2>
 
 <h3>Active Directory:</h3>
